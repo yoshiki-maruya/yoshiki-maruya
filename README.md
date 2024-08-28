@@ -2,12 +2,11 @@
 
 [ ![yoshiki-maruya](https://komarev.com/ghpvc/?username=yoshiki-maruya)
 ](https://github.com/yoshiki-maruya/yoshiki-maruya/)
-[![](https://img.shields.io/twitter/follow/yoshimaru0514?label=Twitter&logo=twitter&style=flat)
-](http://twitter.com/yoshimaru0514)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiki-maruya&theme=blue-green)
-
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiki-maruya&theme=dracula)<br />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiki-maruya&theme=dracula)
+![Yoshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiki-maruya&show_icons=true&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiki-maruya&theme=dracula)
 
 
