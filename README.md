@@ -4,9 +4,17 @@
 ](https://github.com/yoshiki-maruya/yoshiki-maruya/)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
+### Langs %
+
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiki-maruya&theme=dracula)<br />
+
+### Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiki-maruya&theme=dracula)
-![Yoshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiki-maruya&show_icons=true&theme=dracula)
+![Yoshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiki-maruya&show_icons=true&theme=dracula)<br />
+
+### Contributions
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiki-maruya&theme=dracula)
 
 
