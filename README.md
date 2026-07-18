@@ -1,53 +1,59 @@
-## Hi there 👋 Welcome to my GitHub!!
+<div align="center">
 
-[ ![yoshiki-maruya](https://komarev.com/ghpvc/?username=yoshiki-maruya)
-](https://github.com/yoshiki-maruya/yoshiki-maruya/)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+# Yoshiki Maruya
 
-### Langs %
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=460&lines=Software+Engineer;Python+%2F+TypeScript+%2F+.NET;Building+reliable+systems" alt="Typing SVG" />
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiki-maruya&theme=dracula)<br />
+[![Profile Views](https://komarev.com/ghpvc/?username=yoshiki-maruya&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/yoshiki-maruya)
+[![Made for VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-### Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yoshiki-maruya&theme=dracula)
-![Yoshiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiki-maruya&show_icons=true&theme=dracula)<br />
-
-### Contributions
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoshiki-maruya&theme=dracula)
-
-
-<div style="display: inline_block"><br>
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
-<!--
-**yoshiki-maruya/yoshiki-maruya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
+
+**Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+<br />
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
+
+<img width="49%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+<img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+
+<img src="https://streak-stats.demolab.com/?user=yoshiki-maruya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<sub>Stats above are generated by a scheduled <a href="./.github/workflows/profile-cards.yml">GitHub Action</a> and committed to this repo, so they don't depend on a third-party server staying online.</sub>
