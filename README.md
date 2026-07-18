@@ -46,11 +46,16 @@
 
 <div align="center">
 
-<img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-<img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
-
-<img width="49%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-<img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+<table>
+  <tr>
+    <td align="center" width="33%"><img width="100%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" /></td>
+    <td align="center" width="33%"><img width="100%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" /></td>
+    <td align="center" width="33%"><img width="100%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img width="100%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contributions in the last year" /></td>
+  </tr>
+</table>
 
 <img src="https://streak-stats.demolab.com/?user=yoshiki-maruya&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
